@@ -8,7 +8,7 @@ library(ggplot2)
 #          Part 1- NMF
 ##############################################
 
-path3<-'C:/Users/Alexandra/Documents/PhD/pro 1/European_USA_Israel_Summary everything from scratch/Paper_Part1/Last_One_New_Last/Final_Fig/Latter_Fig_rew/Code/';
+path3<-"C:/Users/Alexandra/Documents/GitHub/Haplotype-Admixture/Date/"
 setwd(path3)
 freq<-read.csv("freq_norm.csv", header=F,sep=',')
 pop_name<-read.csv("Population_name.csv", header=F, sep=',')
