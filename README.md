@@ -1,2 +1,0 @@
-# Haplotype-Admixturedfjldkgjklfg
-ckgvlksdjgkljgklsg
